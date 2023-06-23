@@ -8,12 +8,10 @@
 
 4 enlace de demostración
 # 1. Introducción
-Permiten adaptar el contenido de la web a los diferentes tipos de pantallas (diseño responsive) y mejorando, por tanto, la experiencia de usuario.
+Método de diseño de página unidimensional para compaginar elementos en filas o columnas. Los elementos de contenido se ensanchan para rellenar el espacio adicional y se encogen para caber en espacios más pequeños.
 # 2. Descripcción
 En este proyecto me enfoqué en construir 
-* Header: Sección que involucra la foto de perfil, íconos y el menú con hipervínculos.
-* Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsquedad, botones, íconos, etc.
-* Footer: Sección que incluye hipervínculos al final de la página.
+*
 # 3. Objetivo
 Aprender a utilizar las etiquetas de HTML5 y CSS.
 # 4. Enlace de demostración
