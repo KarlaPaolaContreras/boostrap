@@ -16,4 +16,4 @@ En este proyecto me enfoqué en compaginar elementos en filas y columnas
 # 3. Objetivo
 crear sitios web responsive
 # 4. Enlace de demostración
-Aquí puedes visualizar mi proyecto terminado: http://127.0.0.1:5500/boostrap_primer_ejercicio/index.html
+Aquí puedes visualizar mi proyecto terminado: https://superb-crepe-746f22.netlify.app/
